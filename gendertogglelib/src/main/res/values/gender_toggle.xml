@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GenderToggle">
+        <attr name="gt_default_selection" format="enum">
+            <enum name="male" value="0" />
+            <enum name="female" value="1" />
+        </attr>
+        <attr name="gt_glow_enabled" format="boolean" />
+        <attr name="gt_male_color" format="color" />
+        <attr name="gt_female_color" format="color" />
+    </declare-styleable>
+</resources>
